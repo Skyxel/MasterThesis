@@ -60,6 +60,13 @@ This script generates plots from the experimental results saved in `AllResults.r
 
 As in the first script, uncomment the desired preconditioners in the `PRECONDITIONER` list to select them for visualization.
 
+### Reference and Adapted Code
+
+The experiment code was developed by adapting the original simulation script from:  
+📎 **[TimGyger/iterativeFSA - Comparison_Preconditioner_Vecchia.R](https://github.com/TimGyger/iterativeFSA/blob/main/Simulation_Studies/Comparison_Preconditioner_Vecchia.R)**
+
+This served as the foundation for running and evaluating the newly proposed preconditioners in the context of the Vecchia-Laplace approximation.
+
 ---
 
 ## Citation
