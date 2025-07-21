@@ -29,7 +29,7 @@ This folder replicates the structure of the official GPBoost library, but includ
 
 ---
 
-### 📁 experiments
+### 📁 Experiments
 
 This folder contains two R scripts used to run experiments and visualize results.
 
