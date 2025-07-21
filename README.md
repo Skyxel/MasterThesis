@@ -69,12 +69,6 @@ This served as the foundation for running and evaluating the newly proposed prec
 
 ---
 
-## Citation
-
-If you use this code, please cite the corresponding Master's thesis and the original GPBoost library.
-
----
-
 ## License
 
 This project inherits the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) from GPBoost.
