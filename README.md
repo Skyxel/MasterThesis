@@ -1,4 +1,4 @@
-# Master Thesis: Preconditioners for Iterative Methods in Vecchia-Laplace Approximations
+# Master Thesis: Novel preconditioners for iterative methods in Vecchia-Laplace approximations
 
 This repository contains the code and experiments for the Master's thesis on preconditioning strategies for iterative methods applied to the Vecchia-Laplace approximation, developed using the [GPBoost](https://github.com/fabsig/GPBoost) library.
 
