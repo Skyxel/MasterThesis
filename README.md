@@ -69,6 +69,19 @@ This served as the foundation for running and evaluating the newly proposed prec
 
 ---
 
+### 🖥️ Hardware Specifications
+
+All experiments were conducted on the **ADA-23** server provided by the Institute for Statistical and Mathematical Modeling at ETH Zurich. The server has the following hardware specifications:
+
+- **CPU**: 2× Intel Xeon Gold 6148 (20 cores, 2.4 GHz)  
+- **GPU**: 4× NVIDIA GeForce GTX 1080 Ti (12 GB each)  
+- **RAM**: 256 GB
+
+More information about the ADA cluster can be found at the official ETH Zurich page:  
+🔗 [https://blogs.ethz.ch/isgdmath/central-clients/](https://blogs.ethz.ch/isgdmath/central-clients/)
+
+---
+
 ## License
 
 This project inherits the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) from GPBoost.
